@@ -1,0 +1,51 @@
+.jumbotron{
+    height: 250px;
+    color: white;
+}
+
+#instructions{
+    color: white;
+}
+
+#targetScore{
+    background-color: steelblue;
+    color: white;
+}
+
+#score{
+    background-color: purple;
+    color: white;
+}
+
+#crystals{
+    color: black;
+}
+
+#wins{
+    background-color: black;
+    color: white;
+}
+
+#lose{
+    background-color: black;
+    color: white;
+}
+
+#background{
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    
+}
+
+.crystal {
+    height: 200px;
+    width: 200px;
+    border: solid 2px red;
+}
+
+
+.crystalPictures{
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
